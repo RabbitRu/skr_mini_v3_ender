@@ -1,5 +1,5 @@
 module.exports = {
-    board_env: "STM32F103RE_creality",
+    board_env: "BOARD_CREALITY_V4",
     active: true,
     min_version: "2.1.2",
     meta: {
